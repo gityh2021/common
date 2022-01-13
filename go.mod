@@ -1,4 +1,4 @@
-module github.com/gityh2021/common
+module common
 
 go 1.17
 
